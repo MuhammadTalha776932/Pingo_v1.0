@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "245966620016",
+    "project_id": "findmykids-c93cf",
+    "storage_bucket": "findmykids-c93cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245966620016:android:c9b6ae165fb86bd9843bb5",
+        "android_client_info": {
+          "package_name": "com.findmykids"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "245966620016-ij6nsr8oruf65onptd9380a7rr9i11qo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnV4vaECsUvW-OujxplxNV4jI8QIfvXkc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "245966620016-ij6nsr8oruf65onptd9380a7rr9i11qo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
